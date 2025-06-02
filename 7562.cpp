@@ -7,7 +7,6 @@ int main(void)
 {
     int t;
     cin>>t;
-    
     while(t-->0)
     {
         int visit[300][300] = {0,}; // 방문 확인
