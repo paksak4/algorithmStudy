@@ -10,6 +10,7 @@ int main(void)
     cin>>n;
     stack<pair<int, int>> stk; // 키와 연속된 키의 수
     long long totalPair = 0;
+    
     for(int i=0; i<n; i++)
     {
         int h;
