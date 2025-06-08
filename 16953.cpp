@@ -7,12 +7,12 @@ int main(void)
 {
     long long a, b;
     cin>>a>>b;
-    queue<pair<long, long>> que;
+    queue<pair<long long, long long>> que;
     que.push({a, 1});
 
     while(!que.empty())
     {
-        pair<int, int> p = que.front();
+        pair<long long, long long> p = que.front();
         que.pop();
 
         if(p.first*2==b || p.first*10+1==b)
