@@ -3,8 +3,8 @@
 
 ### 문제집: [BOJ](https://www.acmicpc.net/problemset)
 
-### 강의: [바킹덕](https://www.youtube.com/@BaaaaaaaaaaaaaaaaaaaaarkingDog)
+### 강의: [바킹독](https://www.youtube.com/@BaaaaaaaaaaaaaaaaaaaaarkingDog)
 
 ### 언어: c++
 
-### 목차
+### 목차 ???
