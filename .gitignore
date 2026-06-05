@@ -1,0 +1,16 @@
+.vscode
+.DS_Store
+
+# 1. 파일을 일단 제외 후보로 등록
+/baekjoon
+/paiza
+/あれこれ
+# 2. 제외 대상에서 '폴더(디렉토리)'는 예외로 처리 (폴더 안으로 탐색이 가능하도록)
+!/baekjoon
+!/paiza
+!/あれこれ
+# 3. 제외 대상에서 '확장자가 있는 파일들'은 예외로 처리 (소스 코드 등 유지)
+!*.cpp
+
+tempCodeRunnerFile
+tempCodeRunnerFile.cpp
